@@ -13,9 +13,9 @@ Globalement les repos du cours sont :
 
 L'intro situé **[sur ce repository](https://github.com/NegiAlba/introphp)**
 
-**(Les exercices ici)[https://github.com/NegiAlba/introphp]**
+**[Les exercices ici](https://github.com/NegiAlba/introphp)**
 
-**(Des exos un peu plus avancés ici , normalement les énoncés sont sur les index.php dans chaque dossier)[https://github.com/NegiAlba/exointerphp]**
+**[Des exos un peu plus avancés ici , normalement les énoncés sont sur les index.php dans chaque dossier](https://github.com/NegiAlba/exointerphp)**
 
-**(Le repository d'un projet CRUD terminé)[https://github.com/chrisdu64/stuliday]**
+**[Le repository d'un projet CRUD terminé](https://github.com/chrisdu64/stuliday)**
 >C'est celui de Christophe, le mien a été refactorisé et il manque des fonctionnalités que je n'ai pas inclus de nouveau lors de la refactorisation en MVC
