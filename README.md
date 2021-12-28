@@ -21,4 +21,4 @@ L'intro situé **[sur ce repository](https://github.com/NegiAlba/introphp)**
 >C'est celui de Christophe, le mien a été refactorisé et il manque des fonctionnalités que je n'ai pas inclus de nouveau lors de la refactorisation en MVC
 
 
-### [Pierre Giraud](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/) a un cours pas dégueulasse aussi !
+### [Pierre Giraud](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/) a un cours correct aussi (et plus complet) !
