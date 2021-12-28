@@ -11,7 +11,7 @@ Les deux fichiers Algo sont des exercices qui ont été résolu dans un autre re
 
 Globalement les repos du cours sont :
 
-L'intro situé **(sur ce repository)[https://github.com/NegiAlba/introphp]**
+L'intro situé **[sur ce repository](https://github.com/NegiAlba/introphp)**
 
 **(Les exercices ici)[https://github.com/NegiAlba/introphp]**
 
